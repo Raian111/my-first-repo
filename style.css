@@ -1,7 +1,9 @@
 h1{
 
 color: crimson;
-background-image: url(cover.jpg);
+border: solid white 50px  ;
+border-radius: 100px ;
+background-image:  url(cover.jpg);
 }
 p{
     color: darkgoldenrod;
